@@ -77,7 +77,7 @@ if st.button('Predict'):
         st.write(f"Predicted Probability: {cancer_prob[0][1]:.2f}")
         
         # Adjusted threshold
-        if 0.4<= cancer_prob[0][1]<=0.7:
+        if 0.5<= cancer_prob[0][1]<=0.8:
             st.write("Moderate risk of lung cancer")
         elif cancer_prob[0][1]<0.4: 
             st.write("Low risk of lung cancer")
