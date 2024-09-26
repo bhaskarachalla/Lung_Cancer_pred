@@ -2,6 +2,10 @@
 
 This project aims to predict the likelihood of lung cancer using various machine learning models and datasets. The main focus is on early detection to help increase survival rates by allowing patients quicker access to treatment.
 
+**Disclaimer**: This model is intended solely for educational purposes. If you wish to deploy it for real-world applications, it is highly recommended to fine-tune the model using a large and diverse dataset to ensure robustness, accuracy, and reliability in real-world scenarios.
+
+This framing emphasizes the educational context while advising on the importance of further fine-tuning for practical use.
+
 ## Table of Contents
 - [Overview](#overview)
 - [Datasets](#datasets)
