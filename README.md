@@ -23,9 +23,9 @@ We use several datasets, including both publicly available lung cancer patient d
 ## Preprocessing
 
 1. **Data Cleaning**: This step removes incomplete or noisy data.
-2. **Feature Engineering**: Key features such as age, gender, smoking history, and medical imaging attributes are selected.
+2. **Feature Engineering**: Key features such as age, gender, smoking history are selected.
 3. **Normalization**: StandardScaler is used to normalize the data to improve the performance of machine learning models.
-4. **Splitting**: The dataset is split into training (70%), validation (15%), and test (15%) sets.
+4. **Splitting**: The dataset is split into training (73%), test (27%) sets.
 
 ## Models Compared
 
