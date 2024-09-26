@@ -18,7 +18,7 @@ Lung cancer is a leading cause of cancer deaths globally. This project uses mach
 
 ## Datasets
 
-We use several datasets, including both publicly available lung cancer patient data and simulated datasets. One of the prominent datasets used is the [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI), which provides annotated lung nodule scans.
+We use several datasets, including both publicly available lung cancer patient data and simulated datasets. One of the prominent datasets used is the `lung_cancer_survey.csv`, which provides annotated lung nodule scans.
 
 ## Preprocessing
 
