@@ -14,8 +14,6 @@ This framing emphasizes the educational context while advising on the importance
 - [Results](#results)
 - [How to Run the Project](#how-to-run-the-project)
 - [Future Work](#future-work)
-- [Contributors](#contributors)
-
 ## Overview
 
 Lung cancer is a leading cause of cancer deaths globally. This project uses machine learning to predict the probability of lung cancer in patients based on medical data, including imaging and patient history.
